@@ -1,0 +1,15 @@
+/home/hh/Devs/dotnet/test1/bin/Debug/net7.0/test1
+/home/hh/Devs/dotnet/test1/bin/Debug/net7.0/test1.deps.json
+/home/hh/Devs/dotnet/test1/bin/Debug/net7.0/test1.runtimeconfig.json
+/home/hh/Devs/dotnet/test1/bin/Debug/net7.0/test1.dll
+/home/hh/Devs/dotnet/test1/bin/Debug/net7.0/test1.pdb
+/home/hh/Devs/dotnet/test1/obj/Debug/net7.0/test1.csproj.AssemblyReference.cache
+/home/hh/Devs/dotnet/test1/obj/Debug/net7.0/test1.GeneratedMSBuildEditorConfig.editorconfig
+/home/hh/Devs/dotnet/test1/obj/Debug/net7.0/test1.AssemblyInfoInputs.cache
+/home/hh/Devs/dotnet/test1/obj/Debug/net7.0/test1.AssemblyInfo.cs
+/home/hh/Devs/dotnet/test1/obj/Debug/net7.0/test1.csproj.CoreCompileInputs.cache
+/home/hh/Devs/dotnet/test1/obj/Debug/net7.0/test1.dll
+/home/hh/Devs/dotnet/test1/obj/Debug/net7.0/refint/test1.dll
+/home/hh/Devs/dotnet/test1/obj/Debug/net7.0/test1.pdb
+/home/hh/Devs/dotnet/test1/obj/Debug/net7.0/test1.genruntimeconfig.cache
+/home/hh/Devs/dotnet/test1/obj/Debug/net7.0/ref/test1.dll
